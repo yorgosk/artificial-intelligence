@@ -1,7 +1,7 @@
 # Artificial Intelligence
 
 ## About
-Artificial Intelligence, Fall 2016-2017, AI problem solutions in Python. KenKen Solver, specifically, concerns constraint programming.
+Artificial Intelligence, Fall 2016-2017, AI problem solutions in Python. KenKen Solver, specifically, concerns constraint satisfaction programming.
 
 ## Contents
 
